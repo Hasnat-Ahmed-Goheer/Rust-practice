@@ -1,5 +1,17 @@
 # Rust Practice Repository
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Rust-practice)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Rust-practice?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Rust-practice)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Rust-practice)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Rust-practice)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Rust-practice)
+![Static Badge](https://img.shields.io/badge/%20build-passing-brightgreen)
+
+
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Rust-practice?label=Last%20Updated&color=yellow)
+![Status](https://img.shields.io/badge/Status-In_Progress-red)
+
 Welcome to my Rust practice repository! This is where I embark on my journey of exploring and mastering Rust programming. In this repository, you'll find a series of projects and exercises that represent my learning path and growing expertise in Rust.
 
 ## About
