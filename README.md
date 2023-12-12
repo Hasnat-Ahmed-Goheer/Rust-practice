@@ -22,5 +22,23 @@ To start exploring these projects, you will need the following:
 ### Cloning the Repository
 
 You can clone this repository to your local machine using the following command:
-```bash
+```
 git clone https://github.com/Hasnat-Ahmed-Goheer/Rust-practice.git
+```
+To switch to a specific project branch, use:
+```
+git checkout [branch-name]
+or
+git switch [branch-name]
+```
+### Running the Projects
+
+To run a Rust project, navigate to the project directory and use:
+```
+cargo run
+```
+## Contact
+
+If you want to reach out to me, you can contact me at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
+
+Thank you for checking out my Rust practice repository!
